@@ -62,10 +62,11 @@ function ResponsiveAppBar() {
             sx={{
               display: { md: "flex" },
               mr: 1,
-              width: "200px",
+              width: "100px",
+              height: "100px",
             }}>
             <img
-              style={{ maxWidth: "100%" }}
+              style={{ maxWidth: "100%", objectFit: "contain", scale: "2" }}
               src={PaintIcon}
               alt="main-logo"></img>
           </Box>

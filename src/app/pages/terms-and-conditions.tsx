@@ -62,13 +62,13 @@ const TermsConditions = () => {
         </li>
         <li>
           <p>
-            <strong>Веб-сайт</strong> относится к Timeoneproject, доступному по
+            <strong>Веб-сайт</strong> относится к Firstjumpmaster, доступному по
             адресу{" "}
             <a
-              href=" timeoneproject.com"
+              href="  firstjumpmaster.com"
               rel="external nofollow noopener"
               target="_blank">
-              timeoneproject.com
+              firstjumpmaster.com
             </a>
           </p>
         </li>
@@ -184,10 +184,10 @@ const TermsConditions = () => {
       <li>
         Посетив эту страницу на нашем веб-сайте:{" "}
         <a
-          href=" timeoneproject.com"
+          href="  Firstjumpmaster.com"
           rel="external nofollow noopener"
           target="_blank">
-          timeoneproject.com
+          firstjumpmaster.com
         </a>
       </li>
     </Container>

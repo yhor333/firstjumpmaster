@@ -21,9 +21,10 @@ const MainForm: FC = () => {
       id={"registration"}
       sx={{
         background: `center / cover no-repeat  url(${bg})`,
-        height: "800px",
+        minHeight: "800px",
         display: "flex",
         position: "relative",
+        py: 10,
       }}>
       <Container
         sx={{

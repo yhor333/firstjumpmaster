@@ -64,7 +64,7 @@ const MainQuestions: FC = () => {
           },
         }}>
         <Typography
-          sx={{ fontSize: "45px", color: "secondary.main", mb: 3 }}
+          sx={{ fontSize: "45px", color: "primary.dark", mb: 3 }}
           component={"h5"}>
           Часто задаваемые вопросы
         </Typography>

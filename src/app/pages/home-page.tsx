@@ -8,7 +8,6 @@ import { MainPlan } from "../modules/main/main-plan";
 import { MainComments } from "../modules/main/main-comments";
 import { MainQuestions } from "../modules/main/main-questions";
 import { MainDiplom } from "../modules/main/main-diplom";
-import { MainFooter } from "../modules/main/main-footer";
 import { MainTeacher } from "../modules/main/main-teacher";
 
 import CookieConsent from "../modules/main/main-cookie/cookie";
@@ -16,7 +15,6 @@ import CookieConsent from "../modules/main/main-cookie/cookie";
 const HomePage: FC = () => {
   return (
     <Fragment>
-      <MainHeader />
       <MainForm />
       <MainTeacher />
       <MainAdvantages />
@@ -25,7 +23,7 @@ const HomePage: FC = () => {
       <MainComments />
       <MainQuestions />
       <MainDiplom />
-      <MainFooter />
+      <MainHeader />
       <CookieConsent />
     </Fragment>
   );
