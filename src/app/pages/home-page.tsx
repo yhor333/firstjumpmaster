@@ -15,6 +15,7 @@ import CookieConsent from "../modules/main/main-cookie/cookie";
 const HomePage: FC = () => {
   return (
     <Fragment>
+      <MainHeader />
       <MainForm />
       <MainTeacher />
       <MainAdvantages />
